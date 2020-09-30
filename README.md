@@ -2,7 +2,7 @@
 
 # Deadsimple Vue Global Event Bus Magento2 Composer Library
 
-**Please note:** an Event Bus is NOT the solution for all your cross component communication. But there are tons of scenarios where using Veux or other state management frameworks are complete overkill for what you try to accomplish. Which is communication between two separate Vue Components, loaded in two complete different sections of your page.
+**Please note:** an Event Bus is NOT the solution for all your cross component communication. But there are tons of scenarios where using Vuex or other state management frameworks are complete overkill for what you try to accomplish. Which is communication between two separate Vue Components, loaded in two complete different sections of your page.
 
 More about Vue Event Buses can be [found here](https://alligator.io/vuejs/global-event-bus/)
 
